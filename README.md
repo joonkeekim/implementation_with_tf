@@ -1,4 +1,4 @@
 # implementation_with_tf
 
 
-간단한 논문 구현
+배운것들을 빠르고 간단히 구현해보았습니다.
